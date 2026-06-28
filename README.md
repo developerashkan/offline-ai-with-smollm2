@@ -2,7 +2,7 @@
 
 A modern, high-performance offline chat application built with Flutter and the pure-Dart `smollm2` inference engine. This app runs a Large Language Model (LLM) entirely on your device with no internet connection required.
 
-## ✨ Feature
+## ✨ Features
 
 - **100% Offline**: Privacy-first AI. No data leaves your device.
 - **Pure Dart Inference**: Powered by the `smollm2` engine (no native C++/Llama.cpp bindings required).
